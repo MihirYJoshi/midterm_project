@@ -1,3 +1,5 @@
+OK_FORMAT = True
+
 test = {   'name': 'q1_10',
     'points': 1,
     'suites': [   {   'cases': [   {   'code': ">>> np.all(['track_name', 'artist_names', 'danceability', 'energy', 'key', 'mode', 'loudness', 'speechiness', 'acousticness',  'instrumentalness', "

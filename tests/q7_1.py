@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q7_1',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> isinstance(megahits, bpd.DataFrame) and megahits.shape[1] == 13\nTrue', 'hidden': False, 'locked': False},

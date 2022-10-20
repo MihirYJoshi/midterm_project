@@ -1,3 +1,5 @@
+OK_FORMAT = True
+
 test = {   'name': 'q1_4',
     'points': 2,
     'suites': [   {   'cases': [   {   'code': ">>> isinstance(uris_per_track, bpd.DataFrame) and 'uri_count' in uris_per_track.columns and uris_per_track.index.name == 'track_name'\nTrue",

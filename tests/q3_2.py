@@ -1,3 +1,5 @@
+OK_FORMAT = True
+
 test = {   'name': 'q3_2',
     'points': 1,
     'suites': [   {   'cases': [   {   'code': '>>> isinstance(most_common_combo, list) and isinstance(least_common_combo[0], str) and isinstance(least_common_combo[1], float)\nTrue',
